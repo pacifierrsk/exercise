@@ -1,5 +1,4 @@
 # exercise
-https://github.com/pacifierrsk/exercise.wiki.git
 plot1.
 data <- read.table("household_power_consumption.txt", header=T, sep=";")
 data = data[data$Date=="1/2/2007"|data$Date=="2/2/2007",]
